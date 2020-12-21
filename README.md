@@ -5,3 +5,5 @@ I am Likitha
 Here is my [Linkdin profile](https://www.linkedin.com/in/bhimavarapu-likitha-b7a222202/).
 
 ![FRIENDS](friends.jpg)
+
+![DISNEY WORLD](disneyworld.jpg)
